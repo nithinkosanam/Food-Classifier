@@ -66,8 +66,8 @@ Python 3.10.0 must be used in order for tensorflow compatibility
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/nithinkosanam/Calorie-Tracker.git
-   cd Calorie-Tracker
+   git clone https://github.com/nithinkosanam/Food-Classifier.git
+   cd Food-Classifier
    ```
 2. Install Dependencies
    ```sh
