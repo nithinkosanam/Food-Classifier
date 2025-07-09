@@ -1,0 +1,5 @@
+numpy
+Pillow
+tensorflow
+huggingface_hub
+streamlit
