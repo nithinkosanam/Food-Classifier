@@ -6,7 +6,7 @@
     <img src="assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Calorie Tracker</h3>
+  <h3 align="center">Food Detection</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
