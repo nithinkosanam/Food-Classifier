@@ -103,7 +103,9 @@ st.sidebar.markdown(auto_scroll_html, unsafe_allow_html=True)
 if uploaded_file:
     # Preprocess image and predict
     img_array = preprocess(uploaded_file)
-    preds, top_indices = predict(img_array)
+    with st.spinner("Predicting..."):
+        preds, top_indices = predict(img_array)
+
 
     st.subheader("🍴 Top Predictions:")
     for i in top_indices:

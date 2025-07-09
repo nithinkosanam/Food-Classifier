@@ -34,14 +34,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Frontend Demo](assets/demo_image.png)
 
-* This project utilizes the EfficientNetB7 image classfication model for trasnsfer learning. 
+* This project utilizes the EfficientNetB7 image classfication model for transfer learning. 
 * The model was trained on 50 food classes from Food101. 
 * Each food class had 700 training images and 300 testing images (also used for validation). 
 * The model was feature extracted and then fine tuned several times to reach 80% accuracy.
 * Streamlit was used to create a simple webpage to drag and drop images and see the models prediction.
-* The webpage also shows a Grad-CAM visualization to show how CNN made its decision.
+* The model was uploaded to the Hugging Face Hub and then imported in the Streamlit script
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -49,7 +49,7 @@
 * [![TensorFlow][TensorFlow]][TensorFlow-url]
 * [![Streamlit][Streamlit]][Streamlit-url]
 * [![Python][Python]][Python-url]
-
+* [![Hugging Face Hub][Hugging Face Hub]][HuggingFaceHub-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -82,3 +82,7 @@ Blank
 
 [TensorFlow-url]: https://www.tensorflow.org/  
 [TensorFlow]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=%23FFFFFF
+
+[HuggingFaceHub-url]: https://huggingface.co/  
+[Hugging Face Hub]: https://img.shields.io/badge/Hugging%20Face%20Hub-FCC72B?style=for-the-badge&logo=huggingface&logoColor=%23000000
+
