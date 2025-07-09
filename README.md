@@ -41,7 +41,7 @@
 * Each food class had 700 training images and 300 testing images (also used for validation). 
 * The model was feature extracted and then fine tuned several times to reach 80% accuracy.
 * Streamlit was used to create a simple webpage to drag and drop images and see the models prediction.
-* The model was uploaded to the Hugging Face Hub and then imported in the Streamlit script
+* The model was uploaded to the Hugging Face Hub and then imported in the Streamlit script.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
