@@ -23,9 +23,9 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
   </ol>
 </details>
 
@@ -63,11 +63,20 @@ Python 3.10.0 must be used in order for tensorflow compatibility
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Blank
+### Installation
+1. Clone the repo
+   ```sh
+   git clone https://github.com/nithinkosanam/Calorie-Tracker.git
+   cd Calorie-Tracker
+   ```
+2. Install Dependencies
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. Run the Streamlit app
+   ```sh
+   streamlit run app.py
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
