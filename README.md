@@ -50,6 +50,9 @@
 * [![Streamlit][Streamlit]][Streamlit-url]
 * [![Python][Python]][Python-url]
 * [![Hugging Face Hub][Hugging Face Hub]][HuggingFaceHub-url]
+* [![Keras][Keras]][Keras-url]
+* [![Pandas][Pandas]][Pandas-url]
+* [![Matplotlib][Matplotlib]][Matplotlib-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -95,3 +98,11 @@ Python 3.10.0 must be used in order for tensorflow compatibility
 [HuggingFaceHub-url]: https://huggingface.co/  
 [Hugging Face Hub]: https://img.shields.io/badge/Hugging%20Face%20Hub-FCC72B?style=for-the-badge&logo=huggingface&logoColor=%23000000
 
+[Pandas-url]: https://pandas.pydata.org/  
+[Pandas]: https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+
+[Matplotlib-url]: https://matplotlib.org/  
+[Matplotlib]: https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white
+
+[Keras-url]: https://keras.io/  
+[Keras]: https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white
