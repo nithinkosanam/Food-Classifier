@@ -6,28 +6,9 @@
     <img src="assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Food Classifier</h3>
+  <h1 align="center">Food Classifier</h1>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
 
 
 
@@ -43,9 +24,8 @@
 * Streamlit was used to create a simple webpage to drag and drop images and see the models prediction.
 * The model was uploaded to the Hugging Face Hub and then imported in the Streamlit script.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Built With
+<!-- Built With -->
+## Built With
 * [![TensorFlow][TensorFlow]][TensorFlow-url]
 * [![Streamlit][Streamlit]][Streamlit-url]
 * [![Python][Python]][Python-url]
@@ -53,7 +33,6 @@
 * [![Keras][Keras]][Keras-url]
 * [![Pandas][Pandas]][Pandas-url]
 * [![Matplotlib][Matplotlib]][Matplotlib-url]
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -63,7 +42,6 @@
 
 Python 3.10.0 must be used in order for tensorflow compatibility
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Installation
@@ -81,7 +59,6 @@ Python 3.10.0 must be used in order for tensorflow compatibility
    streamlit run app.py
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
